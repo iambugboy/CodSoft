@@ -1,2 +1,2 @@
 # CodSoft
-This repository is for Python Programming Internship at Codsoft.
+This repository is for Python Programming at Codsoft.
